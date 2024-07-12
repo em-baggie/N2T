@@ -5,6 +5,7 @@
 /** 
  * Multiplexor:
  * if (sel = 0) out = a, else out = b
+ * takes many inputs and directs to single output
  */
 CHIP Mux {
     IN a, b, sel;

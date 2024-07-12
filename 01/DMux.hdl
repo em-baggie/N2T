@@ -4,6 +4,7 @@
 // File name: projects/1/DMux.hdl
 /**
  * Demultiplexor:
+ * takes one input and directs to many outputs
  * [a, b] = [in, 0] if sel = 0
  *          [0, in] if sel = 1
  */
