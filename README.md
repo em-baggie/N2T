@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/em-baggie/N2T/main/N2TLogo1.webp" alt="N2T logo" height="250">
     <br/>
     <br/>
-    Nand2Tetris: Building a Modern Computer from First Principles
+    Nand2Tetris:<br/>Building a Modern Computer from First Principles
 </h1>
 
 ## Overview
