@@ -7,7 +7,7 @@
 
 ## Overview
 
-The best way to understand how a computer works is to build it myself! Includes all projects completed as part of the Nand2Tetris course: https://www.nand2tetris.org/.
+The best way to understand how a computer works is to build one myself! Includes all projects completed as part of the Nand2Tetris course: https://www.nand2tetris.org/.
 
 ## 01: Boolean Logic
 All logic gates to be used in later layers of abstraction.
