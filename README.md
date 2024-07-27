@@ -9,13 +9,16 @@
 
 The best way to understand how a computer works is to build one myself! Includes all projects completed as part of the Nand2Tetris course: https://www.nand2tetris.org/.
 
-## 01: Boolean Logic
+## 1. Boolean Logic
 All logic gates to be used in later layers of abstraction.
 
-## 02: Boolean Arithmetic
+## 2. Boolean Arithmetic
 Construction of the ALU.
 
-## 03: Memory
+## 3. Memory
+Construction of RAM and counter.
+
+## 4. Machine Language
 Coming soon...
 
 ## Tech stack used
