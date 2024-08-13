@@ -19,8 +19,8 @@ Construction of the ALU.
 Construction of RAM and counter.
 
 ## 4. Machine Language
-Coming soon...
+- Code for simple multiplication written in assembly language
 
 ## Tech stack used
 - Hardware Description Language
-- ...
+- Assembly
