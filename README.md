@@ -6,11 +6,10 @@
 </h1>
 
 ## Overview
-
-The best way to understand how a computer works is to build one myself! Includes all projects completed as part of the Nand2Tetris course: https://www.nand2tetris.org/.
+The best way to understand how a computer works is to build one myself! Includes all projects completed as part of the Nand2Tetris course: https://www.nand2tetris.org/. Each step represents another layer of abstraction, utilising functionality from previous steps.
 
 ## 1. Boolean Logic
-All logic gates to be used in later layers of abstraction.
+All of the most primitive logic gates.
 
 ## 2. Boolean Arithmetic
 Construction of the ALU.
@@ -23,6 +22,28 @@ Construction of RAM and counter.
 - I/O-handling program written in assembly language.
 
 ## 5. Computer Architecture
+- Full memory chip
+...
+
+## 6. Assembler
+...
+
+## 7. VMI: Stack Arithmetic
+...
+
+## 8. VMII: Program Control
+...
+
+## 9. High Level Language
+...
+
+## 10. Compiler I: Syntax Analysis
+...
+
+## 11. Compiler II: Code Generation
+...
+
+## 12. Operating System
 ...
 
 ## Tech stack used
