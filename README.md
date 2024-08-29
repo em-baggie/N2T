@@ -18,12 +18,12 @@ Construction of the ALU.
 Construction of RAM and counter.
 
 ## 4. Machine Language
-- Multiplication program written in assembly language.
-- I/O-handling program written in assembly language.
+Multiplication program written in assembly language.<br/>
+I/O-handling program written in assembly language.
 
 ## 5. Computer Architecture
-- Full memory chip
-- ...
+Full memory chip<br/>
+...
 
 ## 6. Assembler
 ...
@@ -47,5 +47,5 @@ Construction of RAM and counter.
 ...
 
 ## Tech stack used
-- Hardware Description Language
-- Assembly Language
+Hardware Description Language<br/>
+Assembly Language
